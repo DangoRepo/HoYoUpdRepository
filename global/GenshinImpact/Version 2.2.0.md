@@ -1,6 +1,7 @@
 # Version 2.2.0
 
-###### Pre-Install Section
+## Pre-Install Section
+
 [Game data from 2.1.0 to 2.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_2.1.0_2.2.0_diff_4v9prHYT3QOD628M.zip)
 
 [Audio CN from 2.1.0 to 2.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_2.1.0_2.2.0_diff_OQanfLW1ClY5hswv.zip)
@@ -21,7 +22,8 @@
 
 [Audio KO from 2.0.0 to 2.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_2.0.0_2.2.0_diff_hrUCmFj4qz83XSwJ.zip)
 
-###### Full Install Section
+## Full Install Section
+
 [Game data 2.2.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20211013_407d783aa6b98191/GenshinImpact_2.2.0.zip)
 
 [Audio CN 2.2.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20211013_407d783aa6b98191/Audio_Chinese_2.2.0.zip)
