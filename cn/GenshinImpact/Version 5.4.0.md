@@ -16,7 +16,7 @@
 
 - ![Audio KO from 5.3.0 to 5.4.0](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/18/ko-kr_4.6.0_4.7.0_hdiff_ck7wjJfSXVi1svAb.zip)
 
-### Update from 4.5.0
+### Update from 5.2.0
 
 - ![Game Data from 5.2.0 to 5.4.0](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/18/game_4.5.0_4.7.0_hdiff_Dgw4Eo0AxTXNq9Jk.zip)
 
