@@ -2,7 +2,11 @@
 
 ## Pre-Install Section
 
+### Update from 3.0.0
+
 [Game Data from 3.0.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.0.0_3.2.0_hdiff_0XM45IeyvRhgYCLj.zip)
+
+----
 
 [Audio CN from 3.0.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_3.0.0_3.2.0_hdiff_1n6f7JSmpBiHOvz8.zip)
 
@@ -12,9 +16,11 @@
 
 [Audio KO from 3.0.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_3.0.0_3.2.0_hdiff_WuHL2AB9UVvayFsl.zip)
 
-<hr>
+### Update from 3.1.0
 
 [Game Data from 3.1.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.1.0_3.2.0_hdiff_3B7InFiY1SDdN8Lv.zip)
+
+----
 
 [Audio CN from 3.1.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_3.1.0_3.2.0_hdiff_R8oNZkyzjwxYFGCQ.zip)
 
@@ -27,6 +33,8 @@
 ## Full Install Section
 
 [Game Data 3.2.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20221024103618_h2e3o3zijYKEqHnQ/GenshinImpact_3.2.0.zip)
+
+----
 
 [Audio CN 3.2.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20221024103618_h2e3o3zijYKEqHnQ/Audio_Chinese_3.2.0.zip)
 
