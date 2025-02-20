@@ -123,5 +123,5 @@ This work is licensed under a
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 [p:art-of-questioning]: https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way?tab=readme-ov-file
-[p:zh-cn]: .\README.md
-[p:en-us]: .\README_en-us.md
+[p:zh-cn]: ./README.md
+[p:en-us]: ./README_en-us.md
