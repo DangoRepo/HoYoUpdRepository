@@ -2,25 +2,9 @@
 
 - [Launcher](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/update_20210525213303_d009a819aTBew3U6.zip)
 
-## Pre-Install Section
-
-### Update from 1.6.0
-
-- [Game Data from 1.6.0 to 1.6.1](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_1.5.1_1.6.0_diff_jVasZSurGCqb1PYx.zip)
-
-----
-
-- [Audio CN from 1.6.0 to 1.6.1](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_1.5.1_1.6.0_diff_jXGDLg1FMVdYZrRQ.zip)
-
-- [Audio EN from 1.6.0 to 1.6.1](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/en-us_1.5.1_1.6.0_diff_LvqpG1Srcm72t6YF.zip)
-
-- [Audio JP from 1.6.0 to 1.6.1](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ja-jp_1.5.1_1.6.0_diff_mdLSj8pM1ANnHZTB.zip)
-
-- [Audio KO from 1.6.0 to 1.6.1](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_1.5.1_1.6.0_diff_HJxsoPmCvqB2liEA.zip)
-
 ## Full Install Section
 
-- [Game Data 1.6.1](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210609_15f555799e5d6233/GenshinImpact_1.6.0.zip)
+- [Game Data 1.6.1](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210609_eea40505c6337fd1/GenshinImpact_1.6.0.zip)
 
 ----
 
