@@ -10,6 +10,26 @@
 
 - [Audio CN from 5.1.0 to 5.2.0](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_zh-cn_5.1.0_5.2.0_hdiff_YmcHmcSRXCeaTFqg.zip)
 
+- [Audio EN from 5.1.0 to 5.2.0](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_en-us_5.1.0_5.2.0_hdiff_oIHrItYxSNUNlFeO.zip)
+
+- [Audio JP from 5.1.0 to 5.2.0](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_ja-jp_5.1.0_5.2.0_hdiff_QyrgahmLjPYFWots.zip)
+
+- [Audio KO from 5.1.0 to 5.2.0](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_ko-kr_5.1.0_5.2.0_hdiff_rzWKDBwaFhfEoMDI.zip)
+
+### Update from 5.0.0
+
+- [Game Data from 5.0.0 to 5.2.0](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/game_5.0.0_5.2.0_hdiff_tDhVNXuyAmtrUOQb.zip)
+
+----
+
+- [Audio CN from 5.0.0 to 5.2.0](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_zh-cn_5.0.0_5.2.0_hdiff_bflzPhtquwQRgiQU.zip)
+
+- [Audio EN from 5.0.0 to 5.2.0](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_en-us_5.0.0_5.2.0_hdiff_pCAOTzNtDaGsKSGr.zip)
+
+- [Audio JP from 5.0.0 to 5.2.0](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_ja-jp_5.0.0_5.2.0_hdiff_XCMgbtIluqGDxrDE.zip)
+
+- [Audio KO from 5.0.0 to 5.2.0](https://autopatchcn.yuanshen.com/client_app/update/hk4e_cn/audio_ko-kr_5.0.0_5.2.0_hdiff_QlPWWlHoYAgwwKku.zip)
+
 ## Full-Install Section
 
 - [CNRELWin5.2.0 - Part 1](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20241108173401_1jYptYJqdIP6KinO/YuanShen_5.2.0.zip.001)
