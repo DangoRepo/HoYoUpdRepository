@@ -6,100 +6,14 @@ This repository includes direct links to HoyoGame updates. With this, it allows 
 
 Thank you for entrusting this repository to download games directly.
 
+We are using GitHub Discussions to share your ideas of this repository and to raise non-content questions. If you discover any errors in the content, please go and submit an issue directly.
+
 ## Support Games
 
 - Genshin Impact
 - Star Rail
 - Zenless Zone Zero
 - Honkai Impact 3rd
-
-## API response:
-
-````json
-{
-  "data": {
-    "game_packages": [
-      {
-        "game": {
-          "id": "",
-          "biz": ""
-        },
-        "main": {
-          "major": {
-            "version": "",
-            "game_pkgs": [
-              {
-                "url": "",
-                "md5": "",
-                "size": "",
-                "decompressed_size": ""
-              },
-            ],
-            "audio_pkgs": [
-              {
-                "language": "",
-                "url": "",
-                "md5": "",
-                "size": "",
-                "decompressed_size": ""
-              },
-            ],
-            "res_list_url": ""
-          },
-          "patches": [
-            {
-              "version": "",
-              "game_pkgs": [
-                {
-                  "url": "",
-                  "md5": "",
-                  "size": "",
-                  "decompressed_size": ""
-                }
-              ],
-              "audio_pkgs": [
-                {
-                  "language": "",
-                  "url": "",
-                  "md5": "",
-                  "size": "",
-                  "decompressed_size": ""
-                },
-              ],
-              "res_list_url": ""
-            },
-            {
-              "version": "",
-              "game_pkgs": [
-                {
-                  "url": "",
-                  "md5": "",
-                  "size": "",
-                  "decompressed_size": ""
-                }
-              ],
-              "audio_pkgs": [
-                {
-                  "language": "",
-                  "url": "",
-                  "md5": "",
-                  "size": "",
-                  "decompressed_size": ""
-                },
-              ],
-              "res_list_url": ""
-            }
-          ]
-        },
-        "pre_download": {
-          "major": "",
-          "patches": []
-        }
-      }
-    ]
-  }
-}
-````
 
 <hr>
 
