@@ -38,7 +38,7 @@
 
 - [CNRELWin5.5.0 - Part 3](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20250314105313_OcRjEyGXX8Txtqm4/YuanShen_5.5.0.zip.003)
 
-- [CNRELWin5.5.0 - Part 4](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20250314105313_OcRjEyGXX8Txtqm4/YuanShen_5.5.0.zip.005)
+- [CNRELWin5.5.0 - Part 4](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20250314105313_OcRjEyGXX8Txtqm4/YuanShen_5.5.0.zip.004)
 
 - [CNRELWin5.5.0 - Part 5](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20250314105313_OcRjEyGXX8Txtqm4/YuanShen_5.5.0.zip.005)
 
