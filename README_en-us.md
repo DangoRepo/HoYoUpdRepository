@@ -2,6 +2,12 @@
 
 [中文版][p:zh-cn] | [English][p:en-us]
 
+----
+
+## Starting from 2025-05-05, because Hoyoverse no longer provides package in zip format, Genshin Impact's link will stop updating. The specific recovery time is to be determined.
+
+----
+
 This repository includes direct links to HoyoGame updates. With this, it allows you to download updates without a launcher, but using a download manager (like IDM, FDM, XDM, uGet, etc.).
 
 Thank you for entrusting this repository to download games directly.
@@ -10,12 +16,12 @@ We are using GitHub Discussions to share your ideas of this repository and to ra
 
 ## Support Games
 
-- Genshin Impact
+- ~~Genshin Impact~~ (**stop updating due to force majeure**)
 - Star Rail
 - Zenless Zone Zero
 - Honkai Impact 3rd
 
-<hr>
+----
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
