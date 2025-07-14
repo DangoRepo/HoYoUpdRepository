@@ -16,7 +16,7 @@ We are using GitHub Discussions to share your ideas of this repository and to ra
 
 ## Support Games
 
-- ~~Genshin Impact~~ (**stop updating due to force majeure**)
+- ~~Genshin Impact~~ (**stop updating due to force majeure**, but you can use [**Sophon Downloader**][sophon-downloader])
 - Star Rail
 - Zenless Zone Zero
 - Honkai Impact 3rd
@@ -35,3 +35,4 @@ This work is licensed under a
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 [p:zh-cn]: ./README.md
 [p:en-us]: ./README_en-us.md
+[sophon-downloader]: https://github.com/DangoRepo/SophonDownloader

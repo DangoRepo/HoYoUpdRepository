@@ -27,7 +27,7 @@
 
 ## 目前正在更新的游戏
 
-- ~~《原神》~~（**由于不可抗力原因停止更新**）
+- ~~《原神》~~（**由于不可抗力原因停止更新**，不过你可以尝试使用 [**Sophon Downloader**][sophon-downloader]）
 - 《崩坏：星穹铁道》
 - 《绝区零》
 - 《崩坏3》
@@ -47,3 +47,4 @@ This work is licensed under a
 [p:art-of-questioning]: https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way?tab=readme-ov-file
 [p:zh-cn]: ./README.md
 [p:en-us]: ./README_en-us.md
+[sophon-downloader]: https://github.com/DangoRepo/SophonDownloader
