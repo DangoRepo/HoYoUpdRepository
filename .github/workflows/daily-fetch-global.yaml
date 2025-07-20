@@ -1,0 +1,55 @@
+name: daily-fetch-global
+
+on:
+  workflow_dispatch: # 手动触发
+  schedule:
+    - cron: '0 4 * * *' # 每天 UTC 时间 4:00（即 UTC+8 12:00）运行一次
+  push:
+    branches:
+        - master # master 分支有修改时触发
+    # 只在以下文件有修改时推送触发
+    paths:
+        - 'mdgen.js'
+        - 'package.json'
+        - 'pnpm-lock.yaml'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # 启用提交者身份验证，以便可以提交更改
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # 选择合适的 Node.js 版本
+
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run mdgen.js
+        run: node mdgen.js --server global
+
+      - name: Setup variables
+        run: |
+          CURRENT_TIME=$(date +"%Y-%m-%d %T")
+          echo "CURRENT_TIME=$CURRENT_TIME" >> $GITHUB_ENV
+
+      - name: Push changes
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "bot: Daily API update at ${{ env.CURRENT_TIME }}"
+          branch: master
+          file_pattern: 'patch_notes/**/*.md'
+          commit_user_name: DangoBot
+          commit_user_email: idangoi@noreply.com
+          disable_globbing: true
