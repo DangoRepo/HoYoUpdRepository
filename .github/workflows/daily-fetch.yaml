@@ -1,0 +1,66 @@
+name: PUBLISH
+
+on:
+  workflow_dispatch: # 手动触发
+  schedule:
+    - cron: '0 4 * * *' # 每天 UTC 时间 4:00（即 UTC+8 12:00）运行一次
+  push:
+    branches:
+        - main # main 分支有修改时触发
+    # 只在以下文件有修改时推送触发
+    paths:
+        - 'mdgen-cn.js'
+        - 'mdgen-os.js'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # 启用提交者身份验证，以便可以提交更改
+          persist-credentials: false
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # 选择合适的 Node.js 版本
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run mdgen-cn.js
+        run: node mdgen-cn.js
+
+      - name: Run mdgen-os.js
+        run: node mdgen-os.js
+
+      - name: Check for changes
+        id: changes
+        run: |
+          # 检查是否有更改
+          git diff --exit-code
+          if [ $? -ne 0 ]; then
+            echo "Changes detected"
+            echo "::set-output name=changes::true"
+          else
+            echo "No changes"
+            echo "::set-output name=changes::false"
+          fi
+
+      - name: Commit changes
+        if: steps.changes.outputs.changes == 'true'
+        run: |
+          CURRENT_TIME=$(date +"%Y-%m-%d %T")
+          git config --local user.email "bot@example.com"
+          git config --local user.name "CI Bot"
+          git add .
+          git commit -m "bot: Daily API update at $CURRENT_TIME"
+
+      - name: Push changes
+        if: steps.changes.outputs.changes == 'true'
+        run: |
+          git push origin HEAD:${GITHUB_REF##*/}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
