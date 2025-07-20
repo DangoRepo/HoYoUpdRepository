@@ -6,7 +6,7 @@ on:
     - cron: '0 4 * * *' # 每天 UTC 时间 4:00（即 UTC+8 12:00）运行一次
   push:
     branches:
-        - main # main 分支有修改时触发
+        - master # master 分支有修改时触发
     # 只在以下文件有修改时推送触发
     paths:
         - 'mdgen.js'
