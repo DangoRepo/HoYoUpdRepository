@@ -16,6 +16,8 @@ on:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -43,13 +45,11 @@ jobs:
           echo "CURRENT_TIME=$CURRENT_TIME" >> $GITHUB_ENV
 
       - name: Push changes
-        uses: github-actions-x/commit@v2.9
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          push-branch: 'master'
-          commit-message: 'bot: Daily API update at ${{ env.CURRENT_TIME }}'
-          rebase: 'true'
-          force-add: 'true'
-          files: 'patch_notes/**/*.md'
-          name: DangoBot
-          email: idangoi@qq.com
+          commit_message: "bot: Daily API update at ${{ env.CURRENT_TIME }}"
+          branch: master
+          file_pattern: 'patch_notes/**/*.md'
+          commit_user_name: DangoBot
+          commit_user_email: idangoi@noreply.com
+          disable_globbing: true
