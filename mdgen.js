@@ -403,6 +403,7 @@ function generateMarkdown(markdownConfigs) {
  */
 function outputMarkdown(outputConfigs) {
     const dirPath = Path.dirname(Url.fileURLToPath(import.meta.url));
+    const outputDir = argv.debug ? './patch_notes_test' : './patch_notes';
     for (let outputConfig of outputConfigs) {
         const mdPath = outputConfig.mdPath;
         const mdText = outputConfig.markdown;
@@ -411,7 +412,7 @@ function outputMarkdown(outputConfigs) {
         }
 
         // Markdown 目标绝对路径
-        const mdAbsPath = Path.resolve(dirPath, './patch_notes', `./${mdPath}`);
+        const mdAbsPath = Path.resolve(dirPath, outputDir, `./${mdPath}`);
         FsExtra.outputFileSync(mdAbsPath, mdText, { encoding: 'utf-8' });
     }
 }
