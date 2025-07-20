@@ -1,7 +1,10 @@
-const _ = require("lodash");
-const Path = require('path');
-const FsExtra = require('fs-extra');
-const Axios = require("axios");
+import _ from 'lodash';
+import Path from 'path';
+import Url from 'url';
+import FsExtra from 'fs-extra';
+import Axios from 'axios';
+import Yargs from 'yargs';
+import { hideBin } from 'yargs/helpers';
 
 /**
  * =============================================================
@@ -20,17 +23,31 @@ const Axios = require("axios");
  * 3. 下面若标注了 [SE]，表示这个方法调用在设计上就是需要副作用 (Side Effect) 的
  * =============================================================
  */
+const argv = Yargs(hideBin(process.argv)).parse();
+
+function _getApiUrl() {
+    const urlMap = {
+        cn: 'https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePackages?launcher_id=jGHBHlcOq1',
+        global: 'https://sg-hyp-api.hoyoverse.com/hyp/hyp-connect/api/getGamePackages?launcher_id=VYTpXlbWo8',
+    };
+    const server = argv.server || '';
+    return urlMap[server] || '';
+}
 
 /**
  * <1> 获取API
  */
 async function getApiJson() {
-    const resData = await Axios
-        .get("https://hyp-api.mihoyo.com/hyp/hyp-connect/api/getGamePackages?launcher_id=jGHBHlcOq1")
-        .then(res => res.data);
+    const url = _getApiUrl();
+    if (!url) {
+        return {};
+    }
+    // const resData = await Axios
+    //     .get(url)
+    //     .then(res => res.data);
     // 本地调试
-    // const resData = FsExtra.readJsonSync('./data.json', { encoding: 'utf-8' });
-    return resData
+    const resData = FsExtra.readJsonSync('./data.json', { encoding: 'utf-8' });
+    return resData;
 }
 
 /**
@@ -82,22 +99,35 @@ function _getGameConfig(biz) {
     const configMap = {
         nap_cn: {
             // mdPathGen 为动态生成Markdown目标路径的，传入的参数为当前的Markdown生成配置
+            serverTag: 'cn',
             mdPathGen: (m) => `cn/ZenlessZoneZero/Version_${m.version}.md`,
             // versionTagGen 为动态生成版本标签的，传入的参数为当前的Markdown生成配置
             versionTagGen: (m) => `CNRELWin${m.version}`,
         },
         // 崩坏：星穹铁道
         hkrpg_cn: {
+            serverTag: 'cn',
             mdPathGen: (m) => `cn/HonkaiStarRail/Version_${m.version}.md`,
             versionTagGen: (m) => `CNRELWin${m.version}`,
         },
         // 崩三
         bh3_cn: {
+            serverTag: 'cn',
             mdPathGen: (m) => `cn/Honkai3rd/Version_${m.version}.md`,
             versionTagGen: (m) => `CNRELWin${m.version}`,
         },
+        nap_global: {
+            serverTag: 'global',
+            mdPathGen: (m) => `global/Honkai3rd/Version_${m.version}.md`,
+            versionTagGen: (m) => `OSRELWin${m.version}`,
+        }
     };
-    return configMap[biz]; // 如果取不到，为 undefined，后面不赘述
+    const validServer = argv.server || '';
+    const config = configMap[biz];
+    if (config?.serverTag !== validServer) {
+        return null;
+    }
+    return config;
 }
 
 /**
@@ -247,11 +277,11 @@ function _getMarkdownTextPreInstallItem(mdConfig, mdUpdateConfig) {
         lines.push('');
     }
 
-    // 分割线
-    lines.push('----');
-    lines.push('');
-
     // Audio 部分
+    if (!_.isEmpty(mdUpdateConfig.audioUrls)) {
+        lines.push('### Audio Packages');
+        lines.push('');
+    }
     for (let langName in mdUpdateConfig.audioUrls) {
         const url = mdUpdateConfig.audioUrls[langName]
         const mdText = `- [Audio ${langName} from ${mdUpdateConfig.patchVersion} to ${mdConfig.version}](${url})`;
@@ -259,6 +289,10 @@ function _getMarkdownTextPreInstallItem(mdConfig, mdUpdateConfig) {
         lines.push(mdText);
         lines.push('');
     }
+
+    // 分割线
+    lines.push('----');
+    lines.push('');
 
     return lines.join('\n');
 }
@@ -301,11 +335,11 @@ function _getMarkdownTextInstall(mdConfig) {
         lines.push('');
     }
 
-    // 分割线
-    lines.push('----');
-    lines.push('');
-
     // Audio 部分
+    if (!_.isEmpty(mdConfig.installUrl.audioUrls)) {
+        lines.push('### Audio Packages');
+        lines.push('');
+    }
     for (let langName in mdConfig.installUrl.audioUrls) {
         const url = mdConfig.installUrl.audioUrls[langName]
         const mdText = `- [Audio ${langName} ${mdConfig.version}](${url})`;
@@ -313,6 +347,10 @@ function _getMarkdownTextInstall(mdConfig) {
         lines.push(mdText);
         lines.push('');
     }
+
+    // 分割线
+    lines.push('----');
+    lines.push('');
 
     return lines.join('\n');
 }
@@ -351,6 +389,7 @@ function generateMarkdown(markdownConfigs) {
  * <4> 将Markdown文本写入对应文件
  */
 function outputMarkdown(outputConfigs) {
+    const dirPath = Path.dirname(Url.fileURLToPath(import.meta.url));
     for (let outputConfig of outputConfigs) {
         const mdPath = outputConfig.mdPath;
         const mdText = outputConfig.markdown;
@@ -359,7 +398,7 @@ function outputMarkdown(outputConfigs) {
         }
 
         // Markdown 目标绝对路径
-        const mdAbsPath = Path.resolve(__dirname, './', `./${mdPath}`);
+        const mdAbsPath = Path.resolve(dirPath, `./${mdPath}`);
         FsExtra.outputFileSync(mdAbsPath, mdText, { encoding: 'utf-8' });
     }
 }
