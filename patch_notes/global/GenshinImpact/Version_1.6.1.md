@@ -6,7 +6,7 @@
 
 - [Game Data 1.6.1](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210609_eea40505c6337fd1/GenshinImpact_1.6.0.zip)
 
-----
+**Audio Packages**
 
 - [Audio CN 1.6.1](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210609_eea40505c6337fd1/Audio_Chinese_1.6.1.zip)
 

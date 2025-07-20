@@ -1,5 +1,7 @@
 # Version 3.4.0
 
+----
+
 ## Full-Install Section
 
 - [CNRELWin3.4.0](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20230109134623_pLhUB4LFubdudxQa/YuanShen_3.4.0.zip)
@@ -16,7 +18,7 @@
 
 - [CNRELWin3.4.0 - Part 5](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20230109134623_pLhUB4LFubdudxQa/YuanShen_3.4.0.zip.005)
 
-----
+**Audio Packages**
 
 - [Audio CN 3.4.0](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20230109134623_pLhUB4LFubdudxQa/Audio_Chinese_3.4.0.zip)
 

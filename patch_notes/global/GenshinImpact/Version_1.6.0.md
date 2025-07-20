@@ -8,7 +8,7 @@
 
 - [Game Data from 1.5.1 to 1.6.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_1.5.1_1.6.0_diff_jVasZSurGCqb1PYx.zip)
 
-----
+**Audio Packages**
 
 - [Audio CN from 1.5.1 to 1.6.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_1.5.1_1.6.0_diff_jXGDLg1FMVdYZrRQ.zip)
 
@@ -22,7 +22,7 @@
 
 - [Game Data 1.6.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210609_15f555799e5d6233/GenshinImpact_1.6.0.zip)
 
-----
+**Audio Packages**
 
 - [Audio CN 1.6.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210609_15f555799e5d6233/Audio_Chinese_1.6.0.zip)
 

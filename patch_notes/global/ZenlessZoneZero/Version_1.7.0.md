@@ -6,7 +6,7 @@
 
 - [Game Data from 1.6.0 to 1.7.0](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.6.0_1.7.0_hdiff_yjfizbdNZlDAdyty.zip)
 
-----
+**Audio Packages**
 
 - [Audio CN from 1.6.0 to 1.7.0](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.6.0_1.7.0_hdiff_IARjdCXZwNuKZOtv.zip)
 
@@ -16,11 +16,13 @@
 
 - [Audio KO from 1.6.0 to 1.7.0](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.6.0_1.7.0_hdiff_DKfLTaLDRyYeeQrP.zip)
 
+----
+
 ### Update from 1.5.0
 
 - [Game Data from 1.5.0 to 1.7.0](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/game_1.5.0_1.7.0_hdiff_xUNHcyqYojpyDXBl.zip)
 
-----
+**Audio Packages**
 
 - [Audio CN from 1.5.0 to 1.7.0](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_zh-cn_1.5.0_1.7.0_hdiff_wzBGybpNmFRkmTde.zip)
 
@@ -29,6 +31,8 @@
 - [Audio JP from 1.5.0 to 1.7.0](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ja-jp_1.5.0_1.7.0_hdiff_pXwSoYlNUpfBMqoy.zip)
 
 - [Audio KO from 1.5.0 to 1.7.0](https://autopatchos.zenlesszonezero.com/pclauncher/nap_global/audio_ko-kr_1.5.0_1.7.0_hdiff_LHDBkpoxZdczrFZs.zip)
+
+----
 
 ## Full-Install Section
 
@@ -52,7 +56,7 @@
 
 - [Game Data 1.7.0 - Part 10](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250401142558_ZM9bdppZTPhnTjIA/VolumeZip/ZenlessZoneZero_1.7.0_AS.zip.010)
 
-----
+**Audio Packages**
 
 - [Audio CN 1.7.0](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250401142558_ZM9bdppZTPhnTjIA/audio_zip_Cn.zip)
 

@@ -1,10 +1,12 @@
 # Version 1.5.1
 
+----
+
 ## Full-Install Section
 
 - [CNRELWin1.5.1](https://autopatchcn.yuanshen.com/client_app/pc_mihoyo/20210430_ecaaf3c411f5f79fa/YuanShen_1.5.1.zip)
 
-----
+**Audio Packages**
 
 - [Audio CN 1.5.1](https://autopatchcn.yuanshen.com/client_app/pc_mihoyo/20210430_ecaaf3c411f5f79fa/Audio_Chinese_1.5.1.zip)
 

@@ -6,7 +6,7 @@
 
 - [Game Data from 3.1.0 to 3.2.0](https://autopatchos.starrails.com/client/diff/hkrpg_global/game_3.1.0_3.2.0_hdiff_nwqBoBJTfiCBfuGe.7z)
 
-----
+**Audio Packages**
 
 - [Audio CN from 3.1.0 to 3.2.0](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_zh-cn_3.1.0_3.2.0_hdiff_sjaSrlUVockkcNwu.7z)
 
@@ -15,6 +15,8 @@
 - [Audio JP from 3.1.0 to 3.2.0](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ja-jp_3.1.0_3.2.0_hdiff_zECvovFzvhzVLQoy.7z)
 
 - [Audio KO from 3.1.0 to 3.2.0](https://autopatchos.starrails.com/client/diff/hkrpg_global/audio_ko-kr_3.1.0_3.2.0_hdiff_vKohowdSpbhZLFZp.7z)
+
+----
 
 ## Full-Install Section
 
@@ -36,7 +38,7 @@
 
 - [Game Data 3.2.0 - Part 9](https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/download/StarRail_3.2.0.7z.009)
 
-----
+**Audio Packages**
 
 - [Audio CN 3.2.0](https://autopatchos.starrails.com/client/download/20250327183104_ye1qtcQ1Eo1GlvdK/PC/Chinese.7z)
 

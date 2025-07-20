@@ -6,7 +6,7 @@
 
 [Game Data from 2.7.0 to 3.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_2.7.0_3.0.0_hdiff_b1u9GtgJhTUPryIL.zip)
 
-----
+**Audio Packages**
 
 [Audio CN from 2.7.0 to 3.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_2.7.0_3.0.0_hdiff_0XJTgBrkQN1lsFUW.zip)
 
@@ -16,11 +16,13 @@
 
 [Audio KO from 2.7.0 to 3.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_2.7.0_3.0.0_hdiff_kcoyYRQpLqT61zth.zip)
 
+----
+
 ### Update from 2.8.0
 
 [Game Data from 2.8.0 to 3.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_2.8.0_3.0.0_hdiff_5eW7vzqQBEwmrVCi.zip)
 
-----
+**Audio Packages**
 
 [Audio CN from 2.8.0 to 3.0.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_2.8.0_3.0.0_hdiff_lUMQXapY5jnDKokJ.zip)
 
@@ -34,7 +36,7 @@
 
 [Game Data 3.0.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220815143807_dyIghvy1b5fjfzHU/GenshinImpact_3.0.0.zip)
 
-----
+**Audio Packages**
 
 [Audio CN 3.0.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220815143807_dyIghvy1b5fjfzHU/Audio_Chinese_3.0.0.zip)
 

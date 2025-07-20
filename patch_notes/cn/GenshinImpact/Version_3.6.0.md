@@ -1,5 +1,7 @@
 # Version 3.6.0
 
+----
+
 ## Full-Install Section
 
 ### Full Package
@@ -18,7 +20,7 @@
 
 - [CNRELWin3.6.0 - Part 5](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20230331200338_Sn5XSSFSqcIjAQL1/YuanShen_3.6.0.zip.005)
 
-----
+**Audio Packages**
 
 - [Audio CN 3.6.0](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20230331200338_Sn5XSSFSqcIjAQL1/Audio_Chinese_3.6.0.zip)
 

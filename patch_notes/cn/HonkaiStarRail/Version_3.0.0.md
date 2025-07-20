@@ -6,7 +6,7 @@
 
 - [Game Data from 2.7.0 to 3.0.0](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/game_2.7.0_3.0.0_hdiff_IJYyUGfUFcJGmsCZ.7z)
 
-----
+**Audio Packages**
 
 - [Audio CN from 2.7.0 to 3.0.0](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_zh-cn_2.7.0_3.0.0_hdiff_ROzMlJoGgvndZtuD.7z)
 
@@ -17,6 +17,8 @@
 - [Audio JP from 2.7.0 to 3.0.0](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_ja-jp_2.7.0_3.0.0_hdiff_NkVhDesbXzRxhgZH.7z)
 
 - [Audio KO from 2.7.0 to 3.0.0](https://autopatchcn.bhsr.com/client/diff/hkrpg_cn/audio_ko-kr_2.7.0_3.0.0_hdiff_nKHHIlDwuEQUSCIV.7z)
+
+----
 
 ## Full-Install Section
 
@@ -38,7 +40,7 @@
 
 - [Game Data 3.0.0 - Part 9](https://autopatchcn.bhsr.com/client/cn/20250102101650_whi5OUaVtAY69aLj/PC/download/StarRail_3.0.0.7z.009)
 
-----
+**Audio Packages**
 
 - [Audio CN 3.0.0](https://autopatchcn.bhsr.com/client/cn/20250102101650_whi5OUaVtAY69aLj/PC/Chinese.7z)
 

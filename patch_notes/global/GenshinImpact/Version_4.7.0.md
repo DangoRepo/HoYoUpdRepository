@@ -6,7 +6,7 @@
 
 - [Game Data from 4.6.0 to 4.7.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_4.6.0_4.7.0_hdiff_PIM7zBX3lxGjbaNV.zip)
 
-----
+**Audio Packages**
 
 - [Audio CN from 4.6.0 to 4.7.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_4.6.0_4.7.0_hdiff_vGOido1Us5Djnwb8.zip)
 
@@ -16,11 +16,13 @@
 
 - [Audio KO from 4.6.0 to 4.7.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_4.6.0_4.7.0_hdiff_3qryOQWP2YDnKmBA.zip)
 
+----
+
 ### Update from 4.5.0
 
 - [Game Data from 4.5.0 to 4.7.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_4.5.0_4.7.0_hdiff_hjfZ1LgT52ceYDOv.zip)
 
-----
+**Audio Packages**
 
 - [Audio CN from 4.5.0 to 4.7.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_4.5.0_4.7.0_hdiff_TQp5Jwn0FAfIDsE4.zip)
 
@@ -29,6 +31,8 @@
 - [Audio JP from 4.5.0 to 4.7.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ja-jp_4.5.0_4.7.0_hdiff_GCOBxKrAuTwDXqeQ.zip)
 
 - [Audio KO from 4.5.0 to 4.7.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_4.5.0_4.7.0_hdiff_TVIabdjZRsfUn1B9.zip)
+
+----
 
 ## Full-Install Section
 
@@ -44,7 +48,7 @@
 
 - [CNRELWin4.7.0 - Part 6](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240524181522_P7n5afVhY8WeoVZb/GenshinImpact_4.7.0.zip.006)
 
-----
+**Audio Packages**
 
 - [Audio CN 4.7.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240524181522_P7n5afVhY8WeoVZb/Audio_Chinese_4.7.0.zip)
 

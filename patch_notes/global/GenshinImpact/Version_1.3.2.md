@@ -6,6 +6,8 @@
 
 - [Version 1.2.0 to 1.3.2](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/1.2.0_1.3.2_diff_sHu9eOFd.zip)
 
+----
+
 ### Update from 1.3.0
 
 - [Version 1.3.0 to 1.3.2](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/1.3.0_1.3.2_diff_ryqTKPYO.zip)

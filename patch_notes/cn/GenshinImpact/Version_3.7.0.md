@@ -1,5 +1,7 @@
 # Version 3.7.0
 
+----
+
 ## Full-Install Section
 
 ### Full Package
@@ -18,7 +20,7 @@
 
 - [CNRELWin3.7.0 - Part 5](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20230513200250_hFVOC1wXPDVnzH87/YuanShen_3.7.0.zip.005)
 
-----
+**Audio Packages**
 
 - [Audio CN 3.7.0](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20230513200250_hFVOC1wXPDVnzH87/Audio_Chinese_3.7.0.zip)
 

@@ -1,10 +1,12 @@
 # Version 2.7.0
 
+----
+
 ## Full-Install Section
 
 - [CNRELWin2.7.0](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20220510122739_htkJy9BIys9tCMHu/YuanShen_2.7.0.zip)
 
-----
+**Audio Packages**
 
 - [Audio CN 2.7.0](https://autopatchcn.yuanshen.com/client_app/download/pc_zip/20220510122739_htkJy9BIys9tCMHu/Audio_Chinese_2.7.0.zip)
 

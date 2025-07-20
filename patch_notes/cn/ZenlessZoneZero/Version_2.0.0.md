@@ -6,7 +6,7 @@
 
 - [Game Data from 1.7.0 to 2.0.0](https://autopatchcn.juequling.com/pclauncher/nap_cn/game_1.7.0_2.0.0_hdiff_hYtxtGGxYJtYEfmD.zip)
 
-----
+**Audio Packages**
 
 - [Audio CN from 1.7.0 to 2.0.0](https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_zh-cn_1.7.0_2.0.0_hdiff_YeEjnInvdHWBSVkD.zip)
 
@@ -16,11 +16,13 @@
 
 - [Audio KO from 1.7.0 to 2.0.0](https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_ko-kr_1.7.0_2.0.0_hdiff_joNOiVAsrpJmumep.zip)
 
+----
+
 ### Update from 1.6.0
 
 - [Game Data from 1.6.0 to 2.0.0](https://autopatchcn.juequling.com/pclauncher/nap_cn/game_1.6.0_2.0.0_hdiff_iZVjWMZtjXYjlJeJ.zip)
 
-----
+**Audio Packages**
 
 - [Audio CN from 1.6.0 to 2.0.0](https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_zh-cn_1.6.0_2.0.0_hdiff_lvbhPyQWJBlZQYYe.zip)
 
@@ -29,6 +31,8 @@
 - [Audio JP from 1.6.0 to 2.0.0](https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_ja-jp_1.6.0_2.0.0_hdiff_vLMyyHDquMadGKOk.zip)
 
 - [Audio KO from 1.6.0 to 2.0.0](https://autopatchcn.juequling.com/pclauncher/nap_cn/audio_ko-kr_1.6.0_2.0.0_hdiff_uCjugNBaelYSjBoD.zip)
+
+----
 
 ## Full-Install Section
 
@@ -52,7 +56,7 @@
 
 - [Game Data 2.0.0 - Part 10](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250520103942_LepIQk6e5mKQ7PZ3/VolumeZip/juequling_2.0.0_AS.zip.010)
 
-----
+**Audio Packages**
 
 - [Audio CN 2.0.0](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250520103942_LepIQk6e5mKQ7PZ3/audio_zip_Cn.zip)
 
