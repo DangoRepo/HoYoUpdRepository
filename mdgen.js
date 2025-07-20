@@ -292,7 +292,7 @@ function _getMarkdownTextPreInstallItem(mdConfig, mdUpdateConfig) {
 
     // Audio 部分
     if (!_.isEmpty(mdUpdateConfig.audioUrls)) {
-        lines.push('### Audio Packages');
+        lines.push('**Audio Packages**');
         lines.push('');
     }
     for (let langName in mdUpdateConfig.audioUrls) {
@@ -350,7 +350,7 @@ function _getMarkdownTextInstall(mdConfig) {
 
     // Audio 部分
     if (!_.isEmpty(mdConfig.installUrl.audioUrls)) {
-        lines.push('### Audio Packages');
+        lines.push('**Audio Packages**');
         lines.push('');
     }
     for (let langName in mdConfig.installUrl.audioUrls) {
