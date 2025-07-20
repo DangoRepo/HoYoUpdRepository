@@ -361,10 +361,6 @@ function _getMarkdownTextInstall(mdConfig) {
         lines.push('');
     }
 
-    // 分割线
-    lines.push('----');
-    lines.push('');
-
     return lines.join('\n');
 }
 
