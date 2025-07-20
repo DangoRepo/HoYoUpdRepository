@@ -43,10 +43,10 @@ jobs:
           git diff --exit-code
           if [ $? -ne 0 ]; then
             echo "Changes detected"
-            echo "::set-output name=changes::true"
+            echo "changes=true" >> $GITHUB_OUTPUT
           else
             echo "No changes"
-            echo "::set-output name=changes::false"
+            echo "changes=false" >> $GITHUB_OUTPUT
           fi
 
       - name: Commit changes
