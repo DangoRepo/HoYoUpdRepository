@@ -411,7 +411,7 @@ function outputMarkdown(outputConfigs) {
         }
 
         // Markdown 目标绝对路径
-        const mdAbsPath = Path.resolve(dirPath, `./${mdPath}`);
+        const mdAbsPath = Path.resolve(dirPath, './patch_notes', `./${mdPath}`);
         FsExtra.outputFileSync(mdAbsPath, mdText, { encoding: 'utf-8' });
     }
 }

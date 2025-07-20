@@ -49,5 +49,6 @@ jobs:
           push-branch: 'master'
           commit-message: 'bot: Daily API update at ${{ env.CURRENT_TIME }}'
           force-add: 'true'
+          files: 'patch_notes/**/*.md'
           name: DangoBot
           email: idangoi@qq.com
