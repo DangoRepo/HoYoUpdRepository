@@ -48,6 +48,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           push-branch: 'master'
           commit-message: 'bot: Daily API update at ${{ env.CURRENT_TIME }}'
+          rebase: 'true'
           force-add: 'true'
           files: 'patch_notes/**/*.md'
           name: DangoBot
