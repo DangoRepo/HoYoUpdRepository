@@ -23,7 +23,16 @@ import { hideBin } from 'yargs/helpers';
  * 3. 下面若标注了 [SE]，表示这个方法调用在设计上就是需要副作用 (Side Effect) 的
  * =============================================================
  */
-const argv = Yargs(hideBin(process.argv)).parse();
+const argv = Yargs(hideBin(process.argv))
+    .option('server', {
+        type: 'string',
+        description: 'Server tag',
+    })
+    .option('debug', {
+        type: 'boolean',
+        description: 'Debug mode',
+    })
+    .parse();
 
 function _getApiUrl() {
     const urlMap = {
@@ -38,16 +47,20 @@ function _getApiUrl() {
  * <1> 获取API
  */
 async function getApiJson() {
-    const url = _getApiUrl();
-    if (!url) {
-        return {};
+    if (!argv.debug) {
+        const url = _getApiUrl();
+        if (!url) {
+            return {};
+        }
+        const resData = await Axios
+            .get(url)
+            .then(res => res.data);
+        return resData;
+    } else {
+        // 本地调试
+        const resData = FsExtra.readJsonSync('./data.json', { encoding: 'utf-8' });
+        return resData;
     }
-    // const resData = await Axios
-    //     .get(url)
-    //     .then(res => res.data);
-    // 本地调试
-    const resData = FsExtra.readJsonSync('./data.json', { encoding: 'utf-8' });
-    return resData;
 }
 
 /**
