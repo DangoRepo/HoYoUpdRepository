@@ -50,6 +50,6 @@ jobs:
           commit_message: "bot: Daily API update at ${{ env.CURRENT_TIME }}"
           branch: master
           file_pattern: 'patch_notes/**/*.md'
-          commit_user_name: DangoBot
-          commit_user_email: idangoi@noreply.com
+          commit_user_name: "${{ env.MDGEN_PUSH_USER }}"
+          commit_user_email: "${{ env.MDGEN_PUSH_EMAIL }}"
           disable_globbing: true
