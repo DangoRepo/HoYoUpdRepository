@@ -50,7 +50,7 @@ jobs:
           commit_message: "bot: Daily API update at ${{ env.CURRENT_TIME }}"
           branch: master
           file_pattern: 'patch_notes/**/*.md'
-          commit_user_name: "${{ env.MDGEN_PUSH_USER }}"
-          commit_user_email: "${{ env.MDGEN_PUSH_EMAIL }}"
-          commit_author: "${{ env.MDGEN_PUSH_USER }} <${{ env.MDGEN_PUSH_EMAIL }}>"
+          commit_user_name: "${{ vars.MDGEN_PUSH_USER }}"
+          commit_user_email: "${{ vars.MDGEN_PUSH_EMAIL }}"
+          commit_author: "${{ vars.MDGEN_PUSH_USER }} <${{ vars.MDGEN_PUSH_EMAIL }}>"
           disable_globbing: true
