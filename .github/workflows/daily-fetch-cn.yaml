@@ -44,11 +44,6 @@ jobs:
           CURRENT_TIME=$(date +"%Y-%m-%d %T")
           echo "CURRENT_TIME=$CURRENT_TIME" >> $GITHUB_ENV
 
-      - name: Setup git
-        run: |
-          git config --global user.email "${{ env.MDGEN_PUSH_EMAIL }}"
-          git config --global user.name "${{ env.MDGEN_PUSH_USER }}"
-
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
@@ -57,4 +52,5 @@ jobs:
           file_pattern: 'patch_notes/**/*.md'
           commit_user_name: "${{ env.MDGEN_PUSH_USER }}"
           commit_user_email: "${{ env.MDGEN_PUSH_EMAIL }}"
+          commit_author: "${{ env.MDGEN_PUSH_USER }} <${{ env.MDGEN_PUSH_EMAIL }}>"
           disable_globbing: true
