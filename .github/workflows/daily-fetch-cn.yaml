@@ -24,6 +24,7 @@ jobs:
         with:
           # 启用提交者身份验证，以便可以提交更改
           persist-credentials: false
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
