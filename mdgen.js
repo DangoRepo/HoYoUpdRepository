@@ -110,18 +110,17 @@ function getMarkdownGenerateConfig(obj) {
 function _getGameConfig(biz) {
     // 游戏biz - 游戏Markdown生成配置关系映射
     const configMap = {
-        nap_cn: {
-            // mdPathGen 为动态生成Markdown目标路径的，传入的参数为当前的Markdown生成配置
-            serverTag: 'cn',
-            mdPathGen: (m) => `cn/ZenlessZoneZero/Version_${m.version}.md`,
-            // versionTagGen 为动态生成版本标签的，传入的参数为当前的Markdown生成配置
-            versionTagGen: (m) => `CNRELWin${m.version}`,
-        },
+
         // 崩坏：星穹铁道
         hkrpg_cn: {
             serverTag: 'cn',
             mdPathGen: (m) => `cn/HonkaiStarRail/Version_${m.version}.md`,
             versionTagGen: (m) => `CNRELWin${m.version}`,
+        },
+        hkrpg_global: {
+            serverTag: 'global',
+            mdPathGen: (m) => `global/HonkaiStarRail/Version_${m.version}.md`,
+            versionTagGen: (m) => `OSRELWin${m.version}`,
         },
         // 崩三
         bh3_cn: {
@@ -129,9 +128,22 @@ function _getGameConfig(biz) {
             mdPathGen: (m) => `cn/Honkai3rd/Version_${m.version}.md`,
             versionTagGen: (m) => `CNRELWin${m.version}`,
         },
-        nap_global: {
+        bh3_global:{
             serverTag: 'global',
             mdPathGen: (m) => `global/Honkai3rd/Version_${m.version}.md`,
+            versionTagGen: (m) => `OSRELWin${m.version}`,
+        },
+        // 绝区零
+        nap_cn: {
+            // mdPathGen 为动态生成Markdown目标路径的，传入的参数为当前的Markdown生成配置
+            serverTag: 'cn',
+            mdPathGen: (m) => `cn/ZenlessZoneZero/Version_${m.version}.md`,
+            // versionTagGen 为动态生成版本标签的，传入的参数为当前的Markdown生成配置
+            versionTagGen: (m) => `CNRELWin${m.version}`,
+        },
+        nap_global: {
+            serverTag: 'global',
+            mdPathGen: (m) => `global/ZenlessZoneZero/Version_${m.version}.md`,
             versionTagGen: (m) => `OSRELWin${m.version}`,
         }
     };
