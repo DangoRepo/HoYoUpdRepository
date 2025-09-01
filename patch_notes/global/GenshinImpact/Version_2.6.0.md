@@ -34,7 +34,7 @@
 
 ## Full Install Section
 
-[Game Data 2.6.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220318211020_aWEQCaw5ZERt54rm/GenshinImpact_2.6.0.zip)
+[OSRELWin2.6.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220318211020_aWEQCaw5ZERt54rm/GenshinImpact_2.6.0.zip)
 
 **Audio Packages**
 

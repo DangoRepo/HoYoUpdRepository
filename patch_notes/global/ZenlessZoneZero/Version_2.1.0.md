@@ -36,25 +36,25 @@
 
 ## Full-Install Section
 
-- [Game Data 2.1.0 - Part 1](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.001)
+- [OSRELWin2.1.0 - Part 1](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.001)
 
-- [Game Data 2.1.0 - Part 2](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.002)
+- [OSRELWin2.1.0 - Part 2](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.002)
 
-- [Game Data 2.1.0 - Part 3](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.003)
+- [OSRELWin2.1.0 - Part 3](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.003)
 
-- [Game Data 2.1.0 - Part 4](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.004)
+- [OSRELWin2.1.0 - Part 4](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.004)
 
-- [Game Data 2.1.0 - Part 5](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.005)
+- [OSRELWin2.1.0 - Part 5](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.005)
 
-- [Game Data 2.1.0 - Part 6](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.006)
+- [OSRELWin2.1.0 - Part 6](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.006)
 
-- [Game Data 2.1.0 - Part 7](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.007)
+- [OSRELWin2.1.0 - Part 7](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.007)
 
-- [Game Data 2.1.0 - Part 8](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.008)
+- [OSRELWin2.1.0 - Part 8](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.008)
 
-- [Game Data 2.1.0 - Part 9](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.009)
+- [OSRELWin2.1.0 - Part 9](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.009)
 
-- [Game Data 2.1.0 - Part 10](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.010)
+- [OSRELWin2.1.0 - Part 10](https://autopatchos.zenlesszonezero.com/package_download/op/client_app/os/download/20250701101616_TN2VXgNxxOr6jC4P/VolumeZip/ZenlessZoneZero_2.1.0_AS.zip.010)
 
 **Audio Packages**
 

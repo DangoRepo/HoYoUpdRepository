@@ -20,27 +20,27 @@
 
 ## Full-Install Section
 
-- [Game Data 3.4.0 - Part 1](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.001)
+- [OSRELWin3.4.0 - Part 1](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.001)
 
-- [Game Data 3.4.0 - Part 2](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.002)
+- [OSRELWin3.4.0 - Part 2](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.002)
 
-- [Game Data 3.4.0 - Part 3](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.003)
+- [OSRELWin3.4.0 - Part 3](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.003)
 
-- [Game Data 3.4.0 - Part 4](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.004)
+- [OSRELWin3.4.0 - Part 4](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.004)
 
-- [Game Data 3.4.0 - Part 5](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.005)
+- [OSRELWin3.4.0 - Part 5](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.005)
 
-- [Game Data 3.4.0 - Part 6](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.006)
+- [OSRELWin3.4.0 - Part 6](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.006)
 
-- [Game Data 3.4.0 - Part 7](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.007)
+- [OSRELWin3.4.0 - Part 7](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.007)
 
-- [Game Data 3.4.0 - Part 8](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.008)
+- [OSRELWin3.4.0 - Part 8](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.008)
 
-- [Game Data 3.4.0 - Part 9](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.009)
+- [OSRELWin3.4.0 - Part 9](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.009)
 
-- [Game Data 3.4.0 - Part 10](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.010)
+- [OSRELWin3.4.0 - Part 10](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.010)
 
-- [Game Data 3.4.0 - Part 11](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.011)
+- [OSRELWin3.4.0 - Part 11](https://autopatchos.starrails.com/client/download/20250623153734_TGxpmzGjuZaNs927/PC/download/StarRail_3.4.0.7z.011)
 
 **Audio Packages**
 

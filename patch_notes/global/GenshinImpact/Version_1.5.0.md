@@ -20,4 +20,4 @@
 
 ## Full Install Section
 
-- [Version 1.5.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210428_de80a243f7474c39/GenshinImpact_1.5.0.zip)
+- [OSRELWin1.5.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210428_de80a243f7474c39/GenshinImpact_1.5.0.zip)

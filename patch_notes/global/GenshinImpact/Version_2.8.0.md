@@ -34,7 +34,7 @@
 
 ## Full Install Section
 
-[Game Data 2.8.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220625012443_r2qBGYstD0u3Q9xK/GenshinImpact_2.8.0.zip)
+[OSRELWin2.8.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20220625012443_r2qBGYstD0u3Q9xK/GenshinImpact_2.8.0.zip)
 
 **Audio Packages**
 

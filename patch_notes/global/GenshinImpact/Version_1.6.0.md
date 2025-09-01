@@ -20,7 +20,7 @@
 
 ## Full Install Section
 
-- [Game Data 1.6.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210609_15f555799e5d6233/GenshinImpact_1.6.0.zip)
+- [OSRELWin1.6.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210609_15f555799e5d6233/GenshinImpact_1.6.0.zip)
 
 **Audio Packages**
 

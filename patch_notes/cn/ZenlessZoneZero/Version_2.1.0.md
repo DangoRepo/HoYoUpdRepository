@@ -36,25 +36,25 @@
 
 ## Full-Install Section
 
-- [Game Data 2.1.0 - Part 1](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.001)
+- [CNRELWin2.1.0 - Part 1](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.001)
 
-- [Game Data 2.1.0 - Part 2](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.002)
+- [CNRELWin2.1.0 - Part 2](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.002)
 
-- [Game Data 2.1.0 - Part 3](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.003)
+- [CNRELWin2.1.0 - Part 3](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.003)
 
-- [Game Data 2.1.0 - Part 4](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.004)
+- [CNRELWin2.1.0 - Part 4](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.004)
 
-- [Game Data 2.1.0 - Part 5](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.005)
+- [CNRELWin2.1.0 - Part 5](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.005)
 
-- [Game Data 2.1.0 - Part 6](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.006)
+- [CNRELWin2.1.0 - Part 6](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.006)
 
-- [Game Data 2.1.0 - Part 7](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.007)
+- [CNRELWin2.1.0 - Part 7](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.007)
 
-- [Game Data 2.1.0 - Part 8](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.008)
+- [CNRELWin2.1.0 - Part 8](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.008)
 
-- [Game Data 2.1.0 - Part 9](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.009)
+- [CNRELWin2.1.0 - Part 9](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.009)
 
-- [Game Data 2.1.0 - Part 10](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.010)
+- [CNRELWin2.1.0 - Part 10](https://autopatchcn.juequling.com/package_download/op/client_app/download/20250701110943_jl75SMuF4iArnIDR/VolumeZip/juequling_2.1.0_AS.zip.010)
 
 **Audio Packages**
 

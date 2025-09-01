@@ -34,7 +34,7 @@
 
 ## Full Install Section
 
-[Game Data 3.2.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20221024103618_h2e3o3zijYKEqHnQ/GenshinImpact_3.2.0.zip)
+[OSRELWin3.2.0](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20221024103618_h2e3o3zijYKEqHnQ/GenshinImpact_3.2.0.zip)
 
 **Audio Packages**
 
