@@ -1,0 +1,7 @@
+# Version 7.6.0
+
+----
+
+## Full-Install Section
+
+- [CNRELWin7.6.0](https://autopatchcn.bh3.com/ptpublic/rel/20240624104231_kQdR9e8gTqYZeAgW/PC/BH3_v7.6.0_b6f1709c3910.7z)

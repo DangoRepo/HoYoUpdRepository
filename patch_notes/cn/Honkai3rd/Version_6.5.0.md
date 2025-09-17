@@ -1,0 +1,7 @@
+# Version 6.5.0
+
+----
+
+## Full-Install Section
+
+- [CNRELWin6.5.0](https://bundle.bh3.com/ptpublic/rel/20230305113140_X4V6Nf5dn6viEyfS/PC/BH3_v6.5.0_826e19c5f031.7z)
