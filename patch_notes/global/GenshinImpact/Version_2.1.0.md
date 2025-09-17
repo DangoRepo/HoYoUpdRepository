@@ -32,6 +32,8 @@
 
 - [Audio KO from 1.6.1 to 2.1.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_1.6.1_2.1.0_diff_XyfOJVYxLSlR21zA.zip)
 
+----
+
 ## Full Install Section
 
 - [OSRELWin2.1.0](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210901_db535e31166295ac/GenshinImpact_2.1.0.zip)

@@ -1,8 +1,24 @@
 # Version 3.2.0
 
-**Due to internal server issue, links of CNRELWin3.2.0 is forever expired!!!**
+**Due to internal server issue, links of OSRELWin3.2.0 is forever expired!!!**
 
 ## Pre-Install Section
+
+### Update from 3.1.0
+
+[Game Data from 3.1.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.1.0_3.2.0_hdiff_3B7InFiY1SDdN8Lv.zip)
+
+**Audio Packages**
+
+[Audio CN from 3.1.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_3.1.0_3.2.0_hdiff_R8oNZkyzjwxYFGCQ.zip)
+
+[Audio EN from 3.1.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/en-us_3.1.0_3.2.0_hdiff_ezXCZESyB4JuGs5g.zip)
+
+[Audio JP from 3.1.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ja-jp_3.1.0_3.2.0_hdiff_mHfx98gkNpB36szQ.zip)
+
+[Audio KO from 3.1.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_3.1.0_3.2.0_hdiff_dZwqgxaJQusz5e7E.zip)
+
+----
 
 ### Update from 3.0.0
 
@@ -19,20 +35,6 @@
 [Audio KO from 3.0.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_3.0.0_3.2.0_hdiff_WuHL2AB9UVvayFsl.zip)
 
 ----
-
-### Update from 3.1.0
-
-[Game Data from 3.1.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.1.0_3.2.0_hdiff_3B7InFiY1SDdN8Lv.zip)
-
-**Audio Packages**
-
-[Audio CN from 3.1.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_3.1.0_3.2.0_hdiff_R8oNZkyzjwxYFGCQ.zip)
-
-[Audio EN from 3.1.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/en-us_3.1.0_3.2.0_hdiff_ezXCZESyB4JuGs5g.zip)
-
-[Audio JP from 3.1.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ja-jp_3.1.0_3.2.0_hdiff_mHfx98gkNpB36szQ.zip)
-
-[Audio KO from 3.1.0 to 3.2.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_3.1.0_3.2.0_hdiff_dZwqgxaJQusz5e7E.zip)
 
 ## Full Install Section
 

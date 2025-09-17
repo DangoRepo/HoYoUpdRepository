@@ -12,6 +12,8 @@
 
 - [Game Data from 1.3.0 to 1.3.2](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/1.3.0_1.3.2_diff_ryqTKPYO.zip)
 
+----
+
 ## Full Install Section
 
-- [CNRELWin1.3.2](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210210_b0516858014fc457/GenshinImpact_1.3.2.zip)
+- [OSRELWin1.3.2](https://autopatchhk.yuanshen.com/client_app/pc_mihoyo/20210210_b0516858014fc457/GenshinImpact_1.3.2.zip)

@@ -2,6 +2,22 @@
 
 ## Pre-Install Section
 
+### Update from 3.2.0
+
+[Game Data from 3.2.0 to 3.3.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.2.0_3.3.0_hdiff_fiuTl2cLqp198WVG.zip)
+
+**Audio Packages**
+
+[Audio CN from 3.2.0 to 3.3.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_3.2.0_3.3.0_hdiff_Y7EPh3tBmMbfwWac.zip)
+
+[Audio EN from 3.2.0 to 3.3.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/en-us_3.2.0_3.3.0_hdiff_Mtg67G54pwYTnuEA.zip)
+
+[Audio JP from 3.2.0 to 3.3.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ja-jp_3.2.0_3.3.0_hdiff_DE9YUdTvyOecHkih.zip)
+
+[Audio KO from 3.2.0 to 3.3.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_3.2.0_3.3.0_hdiff_jfd7VWceoaE0A4uB.zip)
+
+----
+
 ### Update from 3.1.0
 
 [Game Data from 3.1.0 to 3.3.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.1.0_3.3.0_hdiff_IGL1F0SYrChkDmvf.zip)
@@ -17,20 +33,6 @@
 [Audio KO from 3.1.0 to 3.3.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_3.1.0_3.3.0_hdiff_zkv4RZ7Y5jfPGauO.zip)
 
 ----
-
-### Update from 3.2.0
-
-[Game Data from 3.2.0 to 3.3.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_3.2.0_3.3.0_hdiff_fiuTl2cLqp198WVG.zip)
-
-**Audio Packages**
-
-[Audio CN from 3.2.0 to 3.3.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_3.2.0_3.3.0_hdiff_Y7EPh3tBmMbfwWac.zip)
-
-[Audio EN from 3.2.0 to 3.3.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/en-us_3.2.0_3.3.0_hdiff_Mtg67G54pwYTnuEA.zip)
-
-[Audio JP from 3.2.0 to 3.3.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ja-jp_3.2.0_3.3.0_hdiff_DE9YUdTvyOecHkih.zip)
-
-[Audio KO from 3.2.0 to 3.3.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_3.2.0_3.3.0_hdiff_jfd7VWceoaE0A4uB.zip)
 
 ## Full Install Section
 

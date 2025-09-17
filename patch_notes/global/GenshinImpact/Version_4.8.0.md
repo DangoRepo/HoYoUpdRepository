@@ -36,17 +36,17 @@
 
 ## Full-Install Section
 
-- [CNRELWin4.8.0 - Part 1](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240705190845_sEVV7ebRBuMrOheE/GenshinImpact_4.8.0.zip.001)
+- [OSRELWin4.8.0 - Part 1](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240705190845_sEVV7ebRBuMrOheE/GenshinImpact_4.8.0.zip.001)
 
-- [CNRELWin4.8.0 - Part 2](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240705190845_sEVV7ebRBuMrOheE/GenshinImpact_4.8.0.zip.002)
+- [OSRELWin4.8.0 - Part 2](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240705190845_sEVV7ebRBuMrOheE/GenshinImpact_4.8.0.zip.002)
 
-- [CNRELWin4.8.0 - Part 3](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240705190845_sEVV7ebRBuMrOheE/GenshinImpact_4.8.0.zip.003)
+- [OSRELWin4.8.0 - Part 3](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240705190845_sEVV7ebRBuMrOheE/GenshinImpact_4.8.0.zip.003)
 
-- [CNRELWin4.8.0 - Part 4](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240705190845_sEVV7ebRBuMrOheE/GenshinImpact_4.8.0.zip.004)
+- [OSRELWin4.8.0 - Part 4](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240705190845_sEVV7ebRBuMrOheE/GenshinImpact_4.8.0.zip.004)
 
-- [CNRELWin4.8.0 - Part 5](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240705190845_sEVV7ebRBuMrOheE/GenshinImpact_4.8.0.zip.005)
+- [OSRELWin4.8.0 - Part 5](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240705190845_sEVV7ebRBuMrOheE/GenshinImpact_4.8.0.zip.005)
 
-- [CNRELWin4.8.0 - Part 6](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240705190845_sEVV7ebRBuMrOheE/GenshinImpact_4.8.0.zip.006)
+- [OSRELWin4.8.0 - Part 6](https://autopatchhk.yuanshen.com/client_app/download/pc_zip/20240705190845_sEVV7ebRBuMrOheE/GenshinImpact_4.8.0.zip.006)
 
 **Audio Packages**
 

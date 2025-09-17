@@ -2,6 +2,22 @@
 
 ## Pre-Install Section
 
+### Update from 2.3.0
+
+[Game data from 2.3.0 to 2.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_2.3.0_2.4.0_diff_jm6dxRrsaWQ0wT2X.zip)
+
+**Audio Packages**
+
+[Audio CN from 2.3.0 to 2.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_2.3.0_2.4.0_diff_CMYcoWsF1EuhiLpx.zip)
+
+[Audio EN from 2.3.0 to 2.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/en-us_2.3.0_2.4.0_diff_nB9mKiPvfW8MhRZd.zip)
+
+[Audio JP from 2.3.0 to 2.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ja-jp_2.3.0_2.4.0_diff_VnP5l3toBOKUapvi.zip)
+
+[Audio KR from 2.3.0 to 2.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_2.3.0_2.4.0_diff_nykbuZGrtEsg5eTz.zip)
+
+----
+
 ### Update from 2.2.0
 
 [Game data from 2.2.0 to 2.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_2.2.0_2.4.0_diff_9kTlUMvuWDeNOKap.zip)
@@ -17,20 +33,6 @@
 [Audio KR from 2.2.0 to 2.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_2.2.0_2.4.0_diff_Eq0ekGyVaBIWFdM5.zip)
 
 ----
-
-### Update from 2.3.0
-
-[Game data from 2.3.0 to 2.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_2.3.0_2.4.0_diff_jm6dxRrsaWQ0wT2X.zip)
-
-**Audio Packages**
-
-[Audio CN from 2.3.0 to 2.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_2.3.0_2.4.0_diff_CMYcoWsF1EuhiLpx.zip)
-
-[Audio EN from 2.3.0 to 2.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/en-us_2.3.0_2.4.0_diff_nB9mKiPvfW8MhRZd.zip)
-
-[Audio JP from 2.3.0 to 2.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ja-jp_2.3.0_2.4.0_diff_VnP5l3toBOKUapvi.zip)
-
-[Audio KR from 2.3.0 to 2.4.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_2.3.0_2.4.0_diff_nykbuZGrtEsg5eTz.zip)
 
 ## Full Install Section
 

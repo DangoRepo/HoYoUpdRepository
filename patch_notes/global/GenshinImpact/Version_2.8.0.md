@@ -2,6 +2,22 @@
 
 ## Pre-Install Section
 
+### Update from 2.7.0
+
+[Game Data from 2.7.0 to 2.8.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_2.7.0_2.8.0_hdiff_JvqEs0RiP9OrAbY7.zip)
+
+**Audio Packages**
+
+[Audio CN from 2.7.0 to 2.8.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_2.7.0_2.8.0_hdiff_r7VPXQ36dRabwK2s.zip)
+
+[Audio EN from 2.7.0 to 2.8.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/en-us_2.7.0_2.8.0_hdiff_UXsOvlyKdAijwHhI.zip)
+
+[Audio JP from 2.7.0 to 2.8.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ja-jp_2.7.0_2.8.0_hdiff_ozU04InEe5NDf9RJ.zip)
+
+[Audio KO from 2.7.0 to 2.8.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_2.7.0_2.8.0_hdiff_YB9GdcHPnj4KisZo.zip)
+
+----
+
 ### Update from 2.6.0
 
 [Game Data from 2.6.0 to 2.8.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_2.6.0_2.8.0_hdiff_CmcT2Qur7R3tM0hU.zip)
@@ -17,20 +33,6 @@
 [Audio KO from 2.6.0 to 2.8.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_2.6.0_2.8.0_hdiff_nYO46PmHztpgDBJZ.zip)
 
 ----
-
-### Update from 2.7.0
-
-[Game Data from 2.7.0 to 2.8.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/game_2.7.0_2.8.0_hdiff_JvqEs0RiP9OrAbY7.zip)
-
-**Audio Packages**
-
-[Audio CN from 2.7.0 to 2.8.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/zh-cn_2.7.0_2.8.0_hdiff_r7VPXQ36dRabwK2s.zip)
-
-[Audio EN from 2.7.0 to 2.8.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/en-us_2.7.0_2.8.0_hdiff_UXsOvlyKdAijwHhI.zip)
-
-[Audio JP from 2.7.0 to 2.8.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ja-jp_2.7.0_2.8.0_hdiff_ozU04InEe5NDf9RJ.zip)
-
-[Audio KO from 2.7.0 to 2.8.0](https://autopatchhk.yuanshen.com/client_app/update/hk4e_global/10/ko-kr_2.7.0_2.8.0_hdiff_YB9GdcHPnj4KisZo.zip)
 
 ## Full Install Section
 
