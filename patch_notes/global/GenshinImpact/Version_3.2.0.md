@@ -1,5 +1,7 @@
 # Version 3.2.0
 
+**Due to internal server issue, links of CNRELWin3.2.0 is forever expired!!!**
+
 ## Pre-Install Section
 
 ### Update from 3.0.0
