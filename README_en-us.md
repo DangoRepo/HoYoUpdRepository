@@ -6,6 +6,7 @@
 
 ## Starting from 2025-05-05, because Hoyoverse no longer provides package in zip format, Genshin Impact's link will stop updating. The specific recovery time is to be determined.
 
+## Starting from 2025-09-25, because Hoyoverse no longer provides package in zip format, Honkai Impact 3rd's link will stop updating. The specific recovery time is to be determined.
 ----
 
 This repository includes direct links to HoyoGame updates. With this, it allows you to download updates without a launcher, but using a download manager (like IDM, FDM, XDM, uGet, etc.).
@@ -19,7 +20,7 @@ We are using GitHub Discussions to share your ideas of this repository and to ra
 - ~~Genshin Impact~~ (**stop updating due to force majeure**, but you can use [**Sophon Downloader**][sophon-downloader])
 - Star Rail
 - Zenless Zone Zero
-- Honkai Impact 3rd
+- ~~Honkai Impact 3rd~~ (**stop updating due to force majeure**, but you can use [**Sophon Downloader**][sophon-downloader])
 
 ----
 
